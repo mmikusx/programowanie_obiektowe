@@ -1,18 +1,34 @@
-program GenerowanieLosowychLiczb;
+program GenerowanieOrazSortowanieTablicy;
 
-procedure GenerujLosoweLiczby;
+const
+  N = 50;
+
+procedure GenerujOrazSortujLiczby;
 var
-  i: integer;
+  liczby: array[1..N] of integer;
+  i, j, temp: integer;
 begin
   Randomize;
 
-  write('50 losowo wygenerowanych liczb w zakresie od 0 do 100: ');
-  for i := 1 to 49 do
-    write(Random(101), ', ');
+  for i := 1 to N do
+    liczby[i] := Random(101);
 
-  writeln(Random(101));
+  for i := 1 to N - 1 do
+    for j := 1 to N - i do
+      if liczby[j] > liczby[j + 1] then
+      begin
+        temp := liczby[j];
+        liczby[j] := liczby[j + 1];
+        liczby[j + 1] := temp;
+      end;
+
+  writeln('Wygenerowane i posortowane liczby rosnąco:');
+  write('[ ');
+  for i := 1 to N - 1 do
+    write(liczby[i], ', ');
+  writeln(liczby[N], ' ]');
 end;
 
 begin
-  GenerujLosoweLiczby;
+  GenerujOrazSortujLiczby;
 end.
