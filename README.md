@@ -6,9 +6,12 @@
 
 :white_check_mark: 4.0 wymaganie 3 [Link do commita 3](https://github.com/mmikusx/programowanie_obiektowe/blob/main/Zadanie1/zad1.pas)
 
-:x: 4.5 wymaganie
+:x: 4.5
 
-:x: 5.0 wymaganie
+:x: 5.0
 
 Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie1)
+
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Programowanie%20obiektowe%20zadanie%201.mov.zip)
+
+
