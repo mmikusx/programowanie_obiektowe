@@ -10,7 +10,7 @@ var
 begin
   if ile > MAX_N then
   begin
-    writeln(Przekroczono maksymalną liczbę generowanych liczb.');
+    writeln('Przekroczono maksymalną liczbę generowanych liczb.');
     Exit;
   end;
   
