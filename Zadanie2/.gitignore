@@ -1,0 +1,20 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+/bin/
+/config/routes
+/config/packages
+/config/bundles.php
+/config/preload.php
+/config/services.yaml
+/public/
+compose.override.yaml
+composer.lock
+symfony.lock
+###< symfony/framework-bundle ###
