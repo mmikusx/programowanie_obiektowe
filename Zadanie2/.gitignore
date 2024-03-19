@@ -7,4 +7,14 @@
 /public/bundles/
 /var/
 /vendor/
+/bin
+/config/packages
+/config/routes
+/config/bunldes.php
+/config/preload.php
+/config/services.yaml
+/public
+compose.override.yaml
+symfony.lock
+composer.lock
 ###< symfony/framework-bundle ###
