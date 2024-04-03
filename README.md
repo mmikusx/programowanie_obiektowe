@@ -30,3 +30,25 @@ Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/mai
 Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie2)
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Obiektowe%20zadanie%202.mov)
+
+
+**Zadanie 3** Wzorce kreacyjne - Kotlin + Spring
+
+
+Spring Boot (Kotlin)
+
+Proszę stworzyć prosty serwis do autoryzacji, który zasymuluje autoryzację użytkownika za pomocą przesłanej nazwy użytkownika oraz hasła. Serwis powinien zostać wstrzyknięty do kontrolera za pomocą anotacji @Autowired. Aplikacja ma oczywiście zawierać jeden kontroler i powinna zostać napisana w języku Kotlin. Oparta powinna zostać na frameworku Spring Boot, podobnie jak na zajęciach. Serwis do autoryzacji powinien być singletonem.
+
+:white_check_mark: 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/2917a0892084ce72ad16a2f007df03c67805d904)
+
+:x: 3.5
+
+:x: 4.0
+
+:x: 4.5
+
+:x: 5.0
+
+Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie3)
+
+Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%203.md)
