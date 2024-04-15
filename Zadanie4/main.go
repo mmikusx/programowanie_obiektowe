@@ -7,6 +7,11 @@ import (
 func main() {
 	e := echo.New()
 
+	db := InitDB()
+	defer db.Close()
+
+	LoadData(db)
+
 	e.GET("/weather", GetWeather)
 
 	e.Start(":8080")
