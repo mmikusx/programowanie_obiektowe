@@ -64,3 +64,19 @@ Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/mai
 Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie4)
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%204.md)
+
+**Zadanie 4** Wzorce behawioralne
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2
+
+:white_check_mark: 4.0 wymaganie 3
+
+:white_check_mark: 4.5 wymaganie 4 [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/f8c8c3ad898d623f2b5b27b1e298e0a78bf49ba2)
+
+:x: 5.0
+
+Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie5)
+
+Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%205.md)
