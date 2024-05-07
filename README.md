@@ -65,7 +65,7 @@ Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadan
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%204.md)
 
-**Zadanie 4** Wzorce behawioralne
+**Zadanie 5** Wzorce behawioralne
 
 :white_check_mark: 3.0 wymaganie 1
 
@@ -80,3 +80,15 @@ Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/mai
 Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie5)
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%205.md)
+
+**Zadanie 6** Zapaszki
+
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=security_rating)
+
+![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=bugs)
+
+![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=vulnerabilities)
+
+![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=code_smells)
+
+Link do projektu na sonarze: [Sonarcloud](https://sonarcloud.io/component_measures?id=mmikusx_Zadanie6_obiektowe_client_sonar)
