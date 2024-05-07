@@ -80,3 +80,17 @@ Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/mai
 Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie5)
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%205.md)
+
+**Zadanie 6** Zapaszki
+
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=security_rating)
+
+![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=bugs)
+
+![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=vulnerabilities)
+
+![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mmikusx_Zadanie6_obiektowe_client_sonar&metric=code_smells)
+
+Kod: [Folder](https://github.com/mmikusx/Zadanie6_obiektowe_client_sonar/)
+
+Link do projektu na sonarze: [Sonarcloud](https://sonarcloud.io/component_measures?id=mmikusx_Zadanie6_obiektowe_client_sonar)
