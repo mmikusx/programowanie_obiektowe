@@ -101,7 +101,7 @@ Link do projektu na sonarze: [Sonarcloud](https://sonarcloud.io/component_measur
 
 :x: 3.5
 
-:x: 4.0
+:white_check_mark: 4.0 zaimplementowane, działają produkty i kategorie (?)
 
 :x: 4.5
 
