@@ -94,3 +94,19 @@ Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/mai
 Kod: [Folder](https://github.com/mmikusx/Zadanie6_obiektowe_client_sonar/)
 
 Link do projektu na sonarze: [Sonarcloud](https://sonarcloud.io/component_measures?id=mmikusx_Zadanie6_obiektowe_client_sonar)
+
+**Zadanie 7** Antywzorce
+
+:white_check_mark: 3.0 wymaganie 1 [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/8c0830bd224bad7d0ca5023990e2031e1b2e990a)
+
+:x: 3.5
+
+:x: 4.0
+
+:x: 4.5
+
+:x: 5.0
+
+Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie7)
+
+Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%207.md)
