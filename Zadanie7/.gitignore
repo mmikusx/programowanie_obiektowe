@@ -1,0 +1,17 @@
+/.idea
+/Public
+/Resources
+/Tests
+docker-compose.yml
+Dockerfile
+LICENSE
+manifest.yml
+Package.resolved
+README.md
+db.sqlite
+/Sources/App/Controllers/.gitkeep
+/Sources/App/DTOs
+/Sources/App/entrypoint.swift
+/Sources/App/Migrations/CreateTodo.swift
+/Sources/App/Models/.gitkeep
+/Sources/App/Models/Todo.swift
