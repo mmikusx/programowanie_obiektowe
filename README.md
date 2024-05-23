@@ -110,3 +110,19 @@ Link do projektu na sonarze: [Sonarcloud](https://sonarcloud.io/component_measur
 Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie7)
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%207.md)
+
+**Zadanie 7** Testy
+
+:white_check_mark: 3.0 [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/87828d377cb5f940ed3619bf9ca761460a41a20fa)
+
+:x: 3.5
+
+:x:
+
+:x: 4.5
+
+:x: 5.0
+
+Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie9)
+
+Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%209.md)
