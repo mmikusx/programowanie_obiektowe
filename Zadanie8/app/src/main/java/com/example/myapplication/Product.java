@@ -3,10 +3,12 @@ package com.example.myapplication;
 public class Product {
     private int id;
     private String name;
+    private double price;
 
-    public Product(int id, String name) {
+    public Product(int id, String name, double price) {
         this.id = id;
         this.name = name;
+        this.price = price;
     }
 
     public int getId() {
@@ -15,5 +17,9 @@ public class Product {
 
     public String getName() {
         return name;
+    }
+
+    public double getPrice() {
+        return price;
     }
 }
