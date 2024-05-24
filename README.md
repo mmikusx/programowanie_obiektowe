@@ -111,13 +111,29 @@ Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadan
 
 Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%207.md)
 
-**Zadanie 7** Testy
+**Zadanie 8** Mobile first (Android)
+
+:white_check_mark: 3.0 [Link do commita]()
+
+:x: 3.5
+
+:x: 4.0
+
+:x: 4.5
+
+:x: 5.0
+
+Kod: [Folder](https://github.com/mmikusx/programowanie_obiektowe/tree/main/Zadanie8)
+
+Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/main/demos/Zadanie%208.md)
+
+**Zadanie 9** Testy
 
 :white_check_mark: 3.0 [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/87828d377cb5f940ed3619bf9ca761460a41a20fa)
 
 :x: 3.5
 
-:x:
+:x: 4.0
 
 :x: 4.5
 
