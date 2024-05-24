@@ -113,9 +113,9 @@ Demo: [Link do demo](https://github.com/mmikusx/programowanie_obiektowe/blob/mai
 
 **Zadanie 8** Mobile first (Android)
 
-:white_check_mark: 3.0 [Link do commita]()
+:white_check_mark: 3.0 [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/d7a20747791ef2ad4d549075b2ff5f0670e82cfd)
 
-:x: 3.5
+:white_check_mark: 3.5 [Link do commita](https://github.com/mmikusx/programowanie_obiektowe/commit/a54702acac99a31c146671249d6fa99faa7b3f20)
 
 :x: 4.0
 
